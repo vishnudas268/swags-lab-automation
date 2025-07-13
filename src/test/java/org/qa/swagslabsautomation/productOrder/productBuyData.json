@@ -1,0 +1,10 @@
+[
+  {
+    "userName": "standard_user",
+    "password":"secret_sauce",
+    "productNames": "Sauce Labs Backpack,Sauce Labs Bike Light",
+    "firstName": "Test",
+    "lastName": "QA",
+    "pinCode": "657573"
+  }
+]
